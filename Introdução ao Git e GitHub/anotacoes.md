@@ -56,9 +56,10 @@
   - git commit -m "*alguma descrição sobre o commit*"
 - **git status:** fornece informações sobre o *branch* em que você estiver no momento, como o nome, se está atualizada em relação à *master* e quais arquivos foram alterados.
 - **git push:** publica as modificações no repositório remoto (GitHub).
+  - git push origin main
 - **git pull:** usado para buscar e baixar o conteúdo de repositórios remotos e realizar a atualização imediata no repositório local, para que os conteúdos fiquem iguais.
 - **git clone:** faz uma cópia de um repositório remoto (GitHub) para um repositório local
-  - git clone *link do repositorio*
+  - git clone *link_do_repositorio* 
 
 
 
